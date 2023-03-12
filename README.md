@@ -8,7 +8,7 @@ Imagem da aplicação no Docker Hub e no ECR;
 Log Group e visualização no Cloudwatch;
 Auto Scaling;
 
-✔️ Tecnologias utilizadas
+✔️ Tecnologias utilizadas:
 - Java 17
 - IntelliJ IDEA
 - MySQL 8
